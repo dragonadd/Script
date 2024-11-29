@@ -11,4 +11,7 @@
 
 **> focos☆解锁高级会员权限**
 
+**************************************
+## js
 
+[小作卡片](https://raw.githubusercontent.com/dragonadd/Script/refs/heads/main/js/XZKp.js), 
