@@ -1,5 +1,5 @@
 # Script
-## For qx
+## For web
 
 **> VSCO 解锁特权**
 
