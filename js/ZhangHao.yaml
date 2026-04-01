@@ -1,1 +1,195 @@
-1
+proxies:
+  - {name: 1 忘记登录需联系客服, server: 59.43.180.34, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 1 此计划禁止工作室使用 禁止任何商业使用, server: 114.152.162.31, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇦🇺 Australia Sydney Mascot EQSY1 25GE0/0/0 DELLR650 F01, server: au01.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇦🇺 Australia Sydney Mascot EQSY1 25GE0/0/1 DELLR650 F02, server: au02.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇦🇺 Australia Sydney Mascot EQSY1 25GE0/0/2 DELLR650 F03, server: au03.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇦🇺 Australia Sydney Mascot EQSY1 25GE0/0/3 DELLR650 F04, server: au04.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇦🇺 Australia Sydney Mascot EQSY1 25GE0/0/4 DELLR650 F05, server: au05.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇦🇺 Australia Sydney Mascot EQSY1 25GE0/0/5 DELLR650 F06, server: au06.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇦🇺 Australia Sydney Mascot EQSY1 25GE0/0/6 DELLR650 F07, server: au07.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇦🇺 Australia Sydney Mascot EQSY1 25GE0/0/7 DELLR650 F08, server: au08.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇦🇺 Australia Sydney Mascot EQSY1 25GE0/0/8 DELLR650 F09, server: au09.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇦🇺 Australia Sydney Mascot EQSY1 25GE0/0/8 DELLR650 F10, server: au10.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇨🇦 Canada Quebec Montreal Beauharnois 10GE0/0/23 F01, server: ca01.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇨🇦 Canada Quebec Montreal Beauharnois 10GE0/0/24 DELLR650 F02, server: ca02.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇨🇦 Canada Quebec Montreal Beauharnois 10GE0/0/25 DELLR650 F03, server: ca03.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇨🇦 Canada Quebec Montreal Beauharnois 10GE0/0/26DELLR6515 F04, server: ca04.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇨🇦 Canada Quebec Montreal Beauharnois 10GE0/0/27 DELLR6515 F05, server: ca05.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇨🇦 Canada Quebec Montreal Beauharnois 10GE0/0/28 DELLR6515 F06, server: ca06.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇨🇦 Canada Quebec Montreal Beauharnois 10GE0/0/29 DELLR6525 F07, server: ca09.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇨🇦 Canada Quebec Montreal Beauharnois 10GE0/0/30 DELLR650 F08, server: ca08.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇨🇦 Canada Quebec Montreal Beauharnois 10GE0/0/31 DELLR6615 F09, server: ca09.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇨🇦 Canada Quebec Montreal Beauharnois 10GE0/0/32 DELLR6515 F10, server: ca10.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇩🇪 French Hauts-de-France Gravelines 25GE0/0/10 DELLR640 F08, server: fr08.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇩🇪 French Hauts-de-France Gravelines 25GE0/0/11 DELLR640 F09, server: fr09.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇩🇪 French Hauts-de-France Gravelines 25GE0/0/12 DELLR640 F10, server: fr10.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇩🇪 French Hauts-de-France Gravelines 25GE0/0/3 DELLR640 F01, server: fr01.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇩🇪 French Hauts-de-France Gravelines 25GE0/0/4 DELLR640 F02, server: fr02.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇩🇪 French Hauts-de-France Gravelines 25GE0/0/5 DELLR640 F03, server: fr03.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇩🇪 French Hauts-de-France Gravelines 25GE0/0/6 DELLR640 F04, server: fr04.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇩🇪 French Hauts-de-France Gravelines 25GE0/0/7 DELLR640 F05, server: fr05.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇩🇪 French Hauts-de-France Gravelines 25GE0/0/8 DELLR640 F06, server: fr06.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇩🇪 French Hauts-de-France Gravelines 25GE0/0/9 DELLR640 F07, server: fr07.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: German Hessen Limburg an der Lahn 10GE0/0/10 DELLR650 F02, server: ge02.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: German Hessen Limburg an der Lahn 10GE0/0/11 DELLR650 F03, server: ge03.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: German Hessen Limburg an der Lahn 10GE0/0/12 DELLR650 F04, server: ge04.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: German Hessen Limburg an der Lahn 10GE0/0/13 DELLR650 F05, server: ge05.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: German Hessen Limburg an der Lahn 10GE0/0/14 DELLR650 F06, server: ge06.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: German Hessen Limburg an der Lahn 10GE0/0/15 DELLR650 F07, server: ge07.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: German Hessen Limburg an der Lahn 10GE0/0/16 DELLR650 F08, server: ge08.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: German Hessen Limburg an der Lahn 10GE0/0/17 DELLR650 F09, server: ge09.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: German Hessen Limburg an der Lahn 10GE0/0/18 DELLR650 F10, server: ge10.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: German Hessen Limburg an der Lahn 10GE0/0/9 DELLR650 F01, server: ge01.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇭🇰 Hong Kong Chai Wan MEGA-i 10GE0/0/23 DELLR6515 F39, server: hk39.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇭🇰 Hong Kong Chai Wan MEGA-i 10GE0/0/27 DELLR640 F40, server: hk40.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇭🇰 Hong Kong Chai Wan MEGA-i 40GE0/0/0 DELLR650 F31, server: hk31.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇭🇰 Hong Kong Chai Wan MEGA-i 40GE0/0/1 DELLR650 F32, server: hk32.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇭🇰 Hong Kong Chai Wan MEGA-i 40GE0/0/2 DELLR650 F33, server: hk33.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇭🇰 Hong Kong Chai Wan MEGA-i 40GE0/0/3 DELLR650 F34, server: hk34.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇭🇰 Hong Kong Chai Wan MEGA-i 40GE0/0/4 DELLR650 F35, server: hk35.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇭🇰 Hong Kong Chai Wan MEGA-i 40GE0/0/5 DELLR650 F36, server: hk36.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇭🇰 Hong Kong Chai Wan MEGA-i 40GE0/0/6 DELLR650 F37, server: hk37.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇭🇰 Hong Kong Chai Wan MEGA-i 40GE0/0/7 DELLR650 F38, server: hk38.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇭🇰 Hong Kong Sha Tin EQHK4 25GE0/0/13 DELLR660 F21, server: hk21.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇭🇰 Hong Kong Sha Tin EQHK4 25GE0/0/14 DELLR660 F22, server: hk22.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇭🇰 Hong Kong Sha Tin EQHK4 25GE0/0/15 DELLR660 F23, server: hk23.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇭🇰 Hong Kong Sha Tin EQHK4 25GE0/0/16 DELLR660 F24, server: hk24.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇭🇰 Hong Kong Sha Tin EQHK4 25GE0/0/17 DELLR660 F25, server: hk25.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇭🇰 Hong Kong Sha Tin EQHK4 25GE0/0/18 DELLR660 F26, server: hk26.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇭🇰 Hong Kong Sha Tin EQHK4 25GE0/0/19 DELLR660 F27, server: hk27.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇭🇰 Hong Kong Sha Tin EQHK4 25GE0/0/20 DELLR660 F28, server: hk28.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇭🇰 Hong Kong Sha Tin EQHK4 25GE0/0/21 DELLR660 F29, server: hk29.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇭🇰 Hong Kong Sha Tin EQHK4 25GE0/0/22 DELLR660 F30, server: hk30.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇭🇰 Hong Kong Sha Tin EQHK4 40GE0/0/0 DELLR650 F05, server: hk05.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇭🇰 Hong Kong Sha Tin EQHK4 40GE0/0/1 DELLR650 F06, server: hk06.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇭🇰 Hong Kong Sha Tin EQHK4 40GE0/0/2 DELLR650 F07, server: hk07.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇭🇰 Hong Kong Sha Tin EQHK4 40GE0/0/3 DELLR650 F08, server: hk08.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇭🇰 Hong Kong Sha Tin EQHK4 40GE0/0/4 DELLR650 F09, server: hk09.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇭🇰 Hong Kong Sha Tin EQHK4 40GE0/0/5 DELLR650 F10, server: hk10.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇭🇰 Hong Kong Sha Tin EQHK4 40GE0/0/6 DELLR650 F11, server: hk11.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇭🇰 Hong Kong Sha Tin EQHK4 40GE0/0/7 DELLR650 F12, server: hk12.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇭🇰 Hong Kong Tsuen Wan EQHK1 100GE0/0/0 DELLR660  F01, server: hk01.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇭🇰 Hong Kong Tsuen Wan EQHK1 100GE0/0/1 DELLR660 F02, server: hk02.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇭🇰 Hong Kong Tsuen Wan EQHK1 100GE0/0/2 DELLR6625 F03, server: hk03.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇭🇰 Hong Kong Tsuen Wan EQHK1 100GE0/0/3 DELLR6615 F04, server: hk04.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇭🇰 Hong Kong Tsuen Wan EQHK1 25GE0/0/10 DELLR6515 F13, server: hk13.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇭🇰 Hong Kong Tsuen Wan EQHK1 25GE0/0/11 DELLR6515 F14, server: hk14.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇭🇰 Hong Kong Tsuen Wan EQHK1 25GE0/0/12 DELLR650 F15, server: hk15.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇭🇰 Hong Kong Tsuen Wan EQHK1 25GE0/0/13 DELLR650 F16, server: hk16.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇭🇰 Hong Kong Tsuen Wan EQHK1 25GE0/0/14 DELLR6515 F17, server: hk17.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇭🇰 Hong Kong Tsuen Wan EQHK1 25GE0/0/15 DELLR6515 F18, server: hk18.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇭🇰 Hong Kong Tsuen Wan EQHK1 25GE0/0/16 DELLR6515 F19, server: hk19.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇭🇰 Hong Kong Tsuen Wan EQHK1 25GE0/0/17 DELLR6515 F20, server: hk20.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇮🇳 India Mumbai Andheri East EQMB1 10GE0/0/0 DELLR630 F01, server: in01.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇮🇳 India Mumbai Andheri East EQMB1 10GE0/0/1 DELLR630 F02, server: in02.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇮🇳 India Mumbai Andheri East EQMB1 10GE0/0/2 DELLR630 F03, server: in03.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇮🇳 India Mumbai Andheri East EQMB1 10GE0/0/3 DELLR620 F04, server: in04.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇮🇳 India Mumbai Andheri East EQMB1 10GE0/0/4 DELLR640 F05, server: in05.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇯🇵 Japan Osaka Nishi Ward EQOS1 25GE0/0/10 DELLR650 F19, server: jp19.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇯🇵 Japan Osaka Nishi Ward EQOS1 25GE0/0/15 DELLR650 F20, server: jp20.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇯🇵 Japan Osaka Nishi Ward EQOS1 40GE0/0/0 DELLR6515 F15, server: jp15.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇯🇵 Japan Osaka Nishi Ward EQOS1 40GE0/0/1 DELLR650 F16, server: jp16.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇯🇵 Japan Osaka Nishi Ward EQOS1 40GE0/0/2 DELLR660 F17, server: jp17.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇯🇵 Japan Osaka Nishi Ward EQOS1 40GE0/0/3 DELLR650 F18, server: jp18.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇯🇵 Japan Tokyo Higashishinagawa EQTY8 100GE0/0/0 DELLR660 F09, server: jp09.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇯🇵 Japan Tokyo Higashishinagawa EQTY8 100GE0/0/1 DELLR660 F10, server: jp10.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇯🇵 Japan Tokyo Higashishinagawa EQTY8 100GE0/0/2 DELLR650 F11, server: jp11.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇯🇵 Japan Tokyo Higashishinagawa EQTY8 100GE0/0/3 DELLR660 F12, server: jp12.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇯🇵 Japan Tokyo Higashishinagawa EQTY8 100GE0/0/4 DELLR660 F13, server: jp13.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇯🇵 Japan Tokyo Higashishinagawa EQTY8 100GE0/0/5 DELLR660 F14, server: jp14.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇯🇵 Japan Tokyo Ōta City EQTY1 100GE0/0/0 DELLR660 F01, server: jp01.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇯🇵 Japan Tokyo Ōta City EQTY1 100GE0/0/1 DELLR660 F02, server: jp02.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇯🇵 Japan Tokyo Ōta City EQTY1 100GE0/0/2 DELLR660 F03, server: jp03.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇯🇵 Japan Tokyo Ōta City EQTY1 100GE0/0/3 DELLR660 F04, server: jp04.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇯🇵 Japan Tokyo Ōta City EQTY1 40GE0/0/0 DELLR650 F05, server: jp05.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇯🇵 Japan Tokyo Ōta City EQTY1 40GE0/0/1 DELLR650 F06, server: jp06.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇯🇵 Japan Tokyo Ōta City EQTY1 40GE0/0/2 DELLR650 F07, server: jp07.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇯🇵 Japan Tokyo Ōta City EQTY1 40GE0/0/3 DELLR650 F08, server: jp08.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇷🇺 Russia Moscow район Западное Дегунино DataLine Дата-центр NORD 10GE0/0/2 DELLR630 F03, server: ru03.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇷🇺 Russia Moscow район Западное Дегунино DataLine Дата-центр NORD 10GE0/0/3 DELLR630 F04, server: ru04.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇷🇺 Russia Moscow район Западное Дегунино DataLine Дата-центр NORD 10GE0/0/4 DELLR620 F05, server: ru05.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇷🇺 Russia Moscow район Западное Дегунино DataLine Дата-центр NORD 10GE0/0/0 DELLR620 F01, server: ru01.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇷🇺 Russia Moscow район Западное Дегунино DataLine Дата-центр NORD 10GE0/0/1 DELLR620 F02, server: ru02.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇸🇬 Singapore Central Queenstown EQSG1 100GE0/0/0 DELLR650 F01, server: sgp01.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇸🇬 Singapore Central Queenstown EQSG1 100GE0/0/1 DELLR650 F02, server: sgp02.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇸🇬 Singapore Central Queenstown EQSG1 100GE0/0/2 DELLR650 F03, server: sgp03.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇸🇬 Singapore Central Queenstown EQSG1 100GE0/0/3 DELLR650 F04, server: sgp04.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇸🇬 Singapore Central Queenstown EQSG1 100GE0/0/4 DELLR660 F05, server: sgp05.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇸🇬 Singapore Central Queenstown EQSG1 100GE0/0/5 DELLR660 F06, server: sgp06.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇸🇬 Singapore Central Queenstown EQSG1 100GE0/0/6 DELLR650 F07, server: sgp07.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇸🇬 Singapore Central Queenstown EQSG1 100GE0/0/7 DELLR650 F08, server: sgp08.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇸🇬 Singapore Central Queenstown EQSG1 100GE0/0/8 DELLR660 F09, server: sgp09.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇸🇬 Singapore Central Queenstown EQSG1 100GE0/0/9 DELLR660 F10, server: sgp10.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇰🇷 South Korea Seoul Mapo-gu EQSL1 40GE0/0/0 DELLR650 F01, server: kr01.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇰🇷 South Korea Seoul Mapo-gu EQSL1 40GE0/0/1 DELLR650 F02, server: kr02.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇰🇷 South Korea Seoul Mapo-gu EQSL1 40GE0/0/2 DELLR650 F03, server: kr03.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇰🇷 South Korea Seoul Mapo-gu EQSL1 40GE0/0/3 DELLR650 F04, server: kr04.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇰🇷 South Korea Seoul Mapo-gu EQSL1 40GE0/0/4 DELLR650 F05, server: kr05.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇰🇷 South Korea Seoul Mapo-gu EQSL1 40GE0/0/5 DELLR650 F06, server: kr06.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇰🇷 South Korea Seoul Mapo-gu EQSL1 40GE0/0/6 DELLR650 F07, server: kr07.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇰🇷 South Korea Seoul Mapo-gu EQSL1 40GE0/0/7 DELLR6515 F08, server: kr08.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇰🇷 South Korea Seoul Mapo-gu EQSL1 40GE0/0/8 DELLR6515 F09, server: kr09.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇰🇷 South Korea Seoul Mapo-gu EQSL1 40GE0/0/9 DELLR6515 F10, server: kr10.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇨🇳 Taiwan Hsinchu Zhubei 1GE0/0/0 DL360G10 F17, server: tw17.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇨🇳 Taiwan Hsinchu Zhubei 1GE0/0/1 DL360G10 F18, server: tw18.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇨🇳 Taiwan Hsinchu Zhubei 1GE0/0/2 DL360G10 F19, server: tw18.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇨🇳 Taiwan Hsinchu Zhubei 1GE0/0/3 DL360G10 F20, server: tw20.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇨🇳 Taiwan New Taipei Xinzhuang 10GE0/0/0 DELLR640 F01, server: tw01.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇨🇳 Taiwan New Taipei Xinzhuang 10GE0/0/1 DELLR650 F02, server: tw02.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇨🇳 Taiwan New Taipei Xinzhuang 10GE0/0/2 DELLR650 F03, server: tw03.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇨🇳 Taiwan New Taipei Xinzhuang 10GE0/0/3 DELLR650 F04, server: tw04.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇨🇳 Taiwan Taipei Xinyi 10GE0/0/0 DELLR640 F05, server: tw05.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇨🇳 Taiwan Taipei Xinyi 10GE0/0/1 DELLR640 F06, server: tw06.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇨🇳 Taiwan Taipei Xinyi 10GE0/0/2 DELLC6520#1 F07, server: tw07.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇨🇳 Taiwan Taipei Xinyi 10GE0/0/3 DELLC6520#2 F08, server: tw08.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇨🇳 Taiwan Taipei Xinyi 10GE0/0/4 DELLC6520#3 F09, server: tw09.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇨🇳 Taiwan Taipei Xinyi 10GE0/0/5 DELLC6520#4 F10, server: tw10.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇨🇳 Taiwan Zhongli Renmei 10GE0/0/0 DL360G11 F11, server: tw11.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇨🇳 Taiwan Zhongli Renmei 10GE0/0/1 DL360G11 F12, server: tw12.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇨🇳 Taiwan Zhongli Renmei 10GE0/0/2 DL360G11 F13, server: tw13.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇨🇳 Taiwan Zhongli Renmei 10GE0/0/3 DL360G11 F14, server: tw14.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇨🇳 Taiwan Zhongli Renmei 10GE0/0/4 DL360G11 F15, server: tw15.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇨🇳 Taiwan Zhongli Renmei 10GE0/0/5 DL360G11 F16, server: tw16.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇬🇧 United Kingdom London Borough of Bexley Erith 10GE0/0/10 DELLR640 F01, server: uk01.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇬🇧 United Kingdom London Borough of Bexley Erith 10GE0/0/11 DELLR640 F02, server: uk02.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇬🇧 United Kingdom London Borough of Bexley Erith 10GE0/0/12 DELLR640 F03, server: uk03.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇬🇧 United Kingdom London Borough of Bexley Erith 10GE0/0/13 DELLR640 F04, server: uk04.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇬🇧 United Kingdom London Borough of Bexley Erith 10GE0/0/14 DELLR640 F05, server: uk05.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇬🇧 United Kingdom London Borough of Bexley Erith 10GE0/0/15 DELLR650 F06, server: uk06.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇬🇧 United Kingdom London Borough of Bexley Erith 10GE0/0/16 DELLR650 F07, server: uk07.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇬🇧 United Kingdom London Borough of Bexley Erith 25GE0/0/2 DELLR650 F08, server: uk08.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇬🇧 United Kingdom London Borough of Bexley Erith 25GE0/0/3 DELLR6515 F09, server: uk09.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇬🇧 United Kingdom London Borough of Bexley Erith 25GE0/0/4 DELLR6515 F10, server: uk10.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇺🇸 United States Washington Seattle EQSE2 100GE0/0/0 DELLR660 F01, server: us01.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇺🇸 United States Washington Seattle EQSE2 100GE0/0/1 DELLR660 F02, server: us02.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇺🇸 United States Washington Seattle EQSE2 100GE0/0/2 DELLR660 F03, server: us03.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇺🇸 United States Washington Seattle EQSE2 100GE0/0/3 DELLR660 F04, server: us04.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇺🇸 United States Washington Seattle EQSE2 100GE0/0/4 DELLR660 F05, server: us05.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇺🇸 United States Washington Seattle EQSE2 100GE0/0/5 DELLR660 F06, server: us06.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇺🇸 United States Washington Seattle EQSE2 100GE0/0/6 DELLR650 F07, server: us07.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇺🇸 United States Washington Seattle EQSE2 100GE0/0/7 DELLR650 F08, server: us08.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇺🇸 United States Washington Seattle EQSE2 100GE0/0/8 DELLR650 F09, server: us09.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇺🇸 United States Washington Seattle EQSE2 100GE0/0/9 DELLR650 F10, server: us10.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇨🇳 中国移动 IPV6 Next generation AnyPath® Direct Internet Zero Trust Network Access (DIZTNA3.0) CloudBlades 01, server: bgp01.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇨🇳 中国移动 IPV6 Next generation AnyPath® Direct Internet Zero Trust Network Access (DIZTNA3.0) CloudBlades 02, server: bgp02.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇨🇳 中国移动 IPV6 Next generation AnyPath® Direct Internet Zero Trust Network Access (DIZTNA3.0) CloudBlades 03, server: bgp03.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇨🇳 中国移动 IPV6 Next generation AnyPath® Direct Internet Zero Trust Network Access (DIZTNA3.0) CloudBlades 04, server: bgp04.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇨🇳 中国移动 IPV6 Next generation AnyPath® Direct Internet Zero Trust Network Access (DIZTNA3.0) CloudBlades 05, server: bgp05.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇨🇳 中国移动 IPV6 Next generation AnyPath® Direct Internet Zero Trust Network Access (DIZTNA3.0) CloudBlades 06, server: bgp06.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇨🇳 中国移动 IPV6 Next generation AnyPath® Direct Internet Zero Trust Network Access (DIZTNA3.0) CloudBlades 07, server: bgp07.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇨🇳 中国移动 IPV6 Next generation AnyPath® Direct Internet Zero Trust Network Access (DIZTNA3.0) CloudBlades 08, server: bgp08.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇦🇶 南极 1GE0/0/27 DELLXR5610 F01, server: an01.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇨🇳 山东联通临时接入, server: 118.184.136.49, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇰🇵 朝鲜平壤 1GE0/0/10 HuaweiRH1288V3 F01, server: nk01.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇯🇵 海外接入 日本, server: 103.152.227.149, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇲🇴 澳门 10GE0/0/2 DELLR6515 F01, server: mo01.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 目前暂不提供试用接入 请付费后使用, server: 59.43.23.14, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 移动宽带 IPV6接入, server: 2001:e42:102:1513:160:16:74:189, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇭🇰 香港高级 中继 01 无端口限制, server: qat01.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇭🇰 香港高级 中继 02 无端口限制, server: qat02.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇭🇰 香港高级 中继 03 无端口限制, server: qat03.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇭🇰 香港高级 中继 04 无端口限制, server: qat04.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇭🇰 香港高级 中继 05 无端口限制, server: qat05.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+  - {name: 🇭🇰 香港高级 中继 06 无端口限制, server: qat06.forentier.org, port: 37962, type: ss, cipher: aes-256-cfb, password: LDz0NT, udp: true}
+
