@@ -1,1 +1,8 @@
+# mysub
+https://misub.dragonadd.top/ZH/test?clash
 
+# 自用全部yaml
+https://raw.githubusercontent.com/dragonadd/Script/refs/heads/main/sub/test.yaml
+
+# https://github.com/wzdnzd/aggregator/issues/91
+https://raoku-pm.hf.space/api/v1/subscribe?token=g6ra!bujhj9vx*gyw4b-l1yh&target=clash&list=true
