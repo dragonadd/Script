@@ -1,5 +1,7 @@
 # mysub
 https://misub.dragonadd.top/ZH/test?clash
+# Guo总分享
+https://s.vip54.dpdns.org/nlDtrSaT
 
 # 自用全部yaml
 https://raw.githubusercontent.com/dragonadd/Script/refs/heads/main/sub/test.yaml
