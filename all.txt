@@ -5,6 +5,7 @@ https://s.vip54.dpdns.org/nlDtrSaT
 
 # 自用全部yaml
 https://raw.githubusercontent.com/dragonadd/Script/refs/heads/main/sub/test.yaml
+https://raw.githubusercontent.com/dragonadd/Script/refs/heads/main/sub/test1.yaml
 
 # https://github.com/wzdnzd/aggregator/issues/91
 https://raoku-pm.hf.space/api/v1/subscribe?token=g6ra!bujhj9vx*gyw4b-l1yh&target=clash&list=true
