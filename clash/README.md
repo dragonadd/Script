@@ -57,18 +57,41 @@ https://raw.githubusercontent.com/dragonadd/Script/main/clash/ACL4SSR_Online_Man
 
 ### 关于ACL4SSR各ini说明
 
+[acl4ssr仓库指路](https://github.com/acl4ssr/acl4ssr)
+
 [ACL4SSR_Online 默认版 分组比较全 ](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online.ini)
+
 [ACL4SSR_Online_AdblockPlus 更多去广告 ](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_AdblockPlus.ini)
+
 [ACL4SSR_Online_NoAuto 无自动测速 ](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_NoAuto.ini)
+
 [ACL4SSR_Online_NoReject 无广告拦截规则 ](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_NoReject.ini)
+
 [ACL4SSR_Online_Mini 精简版 ](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Mini.ini)
+
 [ACL4SSR_Online_Mini_AdblockPlus.ini 精简版 更多去广告 ](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Mini_AdblockPlus.ini)
+
 [ACL4SSR_Online_Mini_NoAuto.ini 精简版 不带自动测速 ](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Mini_NoAuto.ini)
-[ACL4SSR_Online_Mini_Fallback.ini 精简版 带故障转移 ](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Mini_Fallback.ini)
+
+[ACL4SSR_Online_Mini_Fallback.ini 精简版 带故障转移 
+
+[](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Mini_Fallback.ini)
 [ACL4SSR_Online_Mini_MultiMode.ini 精简版 自动测速、故障转移、负载均衡 ](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Mini_MultiMode.ini)
+
 [ACL4SSR_Online_Full 全分组 重度用户使用 ](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full.ini)[ACL4SSR_Online_Full_MultiMode.ini全分组多模式重度用户使用](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_MultiMode.ini)
 
 [ACL4SSR_Online_Full_NoAuto.ini 全分组 无自动测速 重度用户使用 ](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_NoAuto.ini)
+
 [ACL4SSR_Online_Full_AdblockPlus 全分组 重度用户使用 更多去广告 ](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_AdblockPlus.ini)
+
 [ACL4SSR_Online_Full_Netflix 全分组 重度用户使用 奈飞全量 ](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_Netflix.ini)
 
+# 趣味ini
+
+https://raw.githubusercontent.com/dragonadd/Script/main/clash/update.ini
+
+### 修改说明
+
+以**精简版**分组为模板，
+
+更改了节点选择名字
