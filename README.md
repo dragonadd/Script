@@ -14,7 +14,7 @@ SUBCONFIG（订阅转换配置文件）
 
 ## 以前不懂事乱改的
 
-#### 部分未更新已失效
+##### 部分未更新已失效
 
 **> VSCO 解锁特权**
 
@@ -28,6 +28,6 @@ SUBCONFIG（订阅转换配置文件）
 
 **************************************
 
-## js
+ js
 
 [小作卡片](https://raw.githubusercontent.com/dragonadd/Script/refs/heads/main/js/XZKp.js), 
