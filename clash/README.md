@@ -33,7 +33,7 @@ https://raw.githubusercontent.com/dragonadd/Script/main/clash/ACL4SSR_Online_Man
 
 ### 关于url-test
 
-- 延迟测试链接 http://www.gstatic.com/generate_204`300,,50
+- 延迟测试链接 https://www.gstatic.com/generate_204`300,,50
 
 - `300,,50` 是 Subconverter 配置中一个紧凑的参数写法，分别代表了 **测速间隔**、**测速超时** 和 **延迟容差** 这三个核心参数。
 
@@ -53,6 +53,28 @@ https://raw.githubusercontent.com/dragonadd/Script/main/clash/ACL4SSR_Online_Man
 
 [Am I online? 连通性检测成熟方案](https://zhuanlan.zhihu.com/p/1941795511632888522)
 
+
+`````
+
+对于代理软件中的延迟测试，**优先推荐使用 `https://www.gstatic.com/generate_204`**。这主要是为了获得更准确、更可靠的测试结果。
+
+###### 🔒 为什么推荐 HTTPS？
+
+- **避免运营商劫持，测试结果更真实**：部分网络运营商可能会对明文 HTTP 请求进行劫持（MITM），直接返回一个伪造的 `204` 响应来欺骗客户端。使用 HTTPS 可以通过 TLS 加密和证书验证，有效识别并避免这种劫持，确保测得的延迟是真实的节点延迟。
+- **符合当前的最佳实践**：多个代理软件的官方文档和社区指南都已将 HTTPS 版本的 `gstatic.com/generate_204` 列为推荐或默认的测试地址。
+
+###### ⚡ HTTP 的优势与代价
+
+- **速度略有优势**：HTTP 请求没有 TLS 握手过程，因此在**首次连接时**速度会更快一些。不过，在连接复用的情况下，两者的差距会明显缩小。
+- **风险与收益权衡**：虽然 HTTP 速度稍快，但其被劫持的风险可能导致测速结果严重失真，让你误判节点的真实性能。对于追求准确的延迟测试而言，这点速度优势通常不足以弥补其风险。
+
+###### 💎 总结与建议
+
+综合来看，为了获得**准确可靠**的延迟数据，建议使用 **`https://www.gstatic.com/generate_204`**。
+
+当然，如果你的网络环境比较特殊，或者你只是想快速测试一下节点的基本连通性，使用 HTTP 版本也并非完全不可，只是需要意识到其可能存在的风险。
+
+````````
 
 
 ### 关于ACL4SSR各ini说明
